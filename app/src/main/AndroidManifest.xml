@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="android.cuong.myapplication">
     
-    <!-- Random comment 3 --> 
+    <!-- Random comment 4 at branch dev --> 
 
     <application
         android:allowBackup="true"
