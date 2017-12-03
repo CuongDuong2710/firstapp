@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="android.cuong.myapplication">
     
-    <!-- Random comment 7 at branch fix22 --> 
+    <!-- My boss is a jerk --> 
 
     <application
         android:allowBackup="true"
